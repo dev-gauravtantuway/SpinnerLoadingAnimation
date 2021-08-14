@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 void main() {
   runApp(
     MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Spinner Loading Animation',
       home: HomePage(),
     ),
   );
